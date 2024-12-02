@@ -1,1 +1,2 @@
 ghcr.io/modeltc/lightllm:main
+nginx
