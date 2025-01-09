@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/opengrps/grps_gpu:grps1.1.0_cuda12.5_cudnn9.2_trtllm0.16.0_py3.12_beta
+dashinfer/fschat_ubuntu_cuda:v2.0
