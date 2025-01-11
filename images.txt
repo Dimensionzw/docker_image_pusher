@@ -1,1 +1,1 @@
-dashinfer/fschat_ubuntu_cuda:v2.0
+nvcr.io/nvidia/cloud-native/nvidia-fs:2.20.5-rhcos4.16
