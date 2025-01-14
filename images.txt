@@ -1,1 +1,1 @@
-apostacyh/lmcache-server:0.1.0
+apostacyh/vllm:lmcache-0.1.0
