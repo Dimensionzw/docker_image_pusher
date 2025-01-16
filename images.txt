@@ -1,1 +1,2 @@
-apostacyh/vllm:lmcache-0.1.0
+nvcr.io/nvidia/tritonserver:24.12-trtllm-python-py3
+
