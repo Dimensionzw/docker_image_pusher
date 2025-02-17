@@ -1,1 +1,1 @@
-nats:latest
+bitnami/etcd:latest
