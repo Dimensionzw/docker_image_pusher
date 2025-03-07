@@ -1,1 +1,1 @@
-ghcr.io/astral-sh/uv:latest
+ghcr.io/bd-iaas-us/lmcache-lmslocalbackend:latest
