@@ -1,1 +1,1 @@
-vllm/vllm-openai:v0.7.3
+bitnami/prometheus:2.48.1
