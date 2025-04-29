@@ -1,2 +1,2 @@
-lmsysorg/sglang:latest
+vllm/vllm-openai:latest
 
