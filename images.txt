@@ -1,3 +1,3 @@
-sushiqian/dynamo:v0.2.1-vllm
+hzy001/xgboost-serving:latest-devel
 
 
