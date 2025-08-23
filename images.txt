@@ -1,2 +1,2 @@
-nvcr.io/nvidia/ai-dynamo/kubernetes-operator:""
+nvcr.io/nvidia/ai-dynamo/kubernetes-operator:0.4.0
 
