@@ -1,2 +1,2 @@
-natsio/nats-server-config-reloader:0.16.0
+natsio/nats-box:0.14.5
 
