@@ -1,3 +1,2 @@
-nvcr.io/nvidia/ai-dynamo/kubernetes-operator:latest
-
+nvcr.io/nvidia/ai-dynamo/kubernetes-operator:""
 
