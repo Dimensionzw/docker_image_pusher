@@ -1,1 +1,1 @@
-natsio/prometheus-nats-exporter:0.16.0
+natsio/nats-box:0.17.0
