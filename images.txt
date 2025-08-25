@@ -1,1 +1,1 @@
-natsio/nats-server-config-reloader:0.17.1
+natsio/prometheus-nats-exporter:0.16.0
