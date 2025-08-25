@@ -1,2 +1,2 @@
-natsio/nats-box:0.14.5
+gcr.io/kubebuilder/kube-rbac-proxy:v0.15.0
 
