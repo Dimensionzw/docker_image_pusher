@@ -1,1 +1,1 @@
-nvcr.io/nvidian/nim-llm-dev/vllm-runtime:dep-233.17
+nvcr.io/nvidia/ai-dynamo/vllm-runtime:0.4.0
