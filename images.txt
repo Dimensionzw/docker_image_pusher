@@ -1,1 +1,1 @@
-natsio/nats-box:0.17.0
+nvcr.io/nvidian/nim-llm-dev/vllm-runtime:dep-233.17
