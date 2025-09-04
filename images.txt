@@ -1,1 +1,1 @@
-lmsysorg/sglang:latest
+lmcache/vllm-openai
