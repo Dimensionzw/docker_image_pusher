@@ -1,1 +1,2 @@
-alvarobartt/vllm-openai:v0.10.2-a892b259b
+vllm/vllm-openai:nightly
+
