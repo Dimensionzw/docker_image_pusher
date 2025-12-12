@@ -1,4 +1,4 @@
-vllm/vllm-openai:v0.12.0
+lmcache/vllm-openai:v0.3.10post2
 
 
 
