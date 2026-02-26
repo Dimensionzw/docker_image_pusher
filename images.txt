@@ -1,4 +1,3 @@
-lmcache/vllm-openai:v0.3.10post2
-
+justlikemaki/openclaw-docker-cn-im:latest
 
 
