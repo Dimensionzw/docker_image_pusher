@@ -1,3 +1,4 @@
-lmsysorg/sglang:v0.5.9
+lmsysorg/sglang:latest
+
 
 
