@@ -1,4 +1,4 @@
-nvcr.io/nvidia/pytorch:24.01-py3
+vllm/vllm-openai:v0.17.1
 
 
 
