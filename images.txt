@@ -1,4 +1,4 @@
-postgres:15.17
+docker.litellm.ai/berriai/litellm:main-stable
 
 
 
