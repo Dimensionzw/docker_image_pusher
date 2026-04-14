@@ -1,4 +1,4 @@
-litellm/litellm:main-v1.83.3-stable
+postgres:15.17
 
 
 
