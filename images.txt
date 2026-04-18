@@ -1,4 +1,4 @@
-docker.litellm.ai/berriai/litellm:main-stable
+vllm/vllm-openai:v0.19.0
 
 
 
