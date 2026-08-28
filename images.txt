@@ -1,4 +1,4 @@
-vllm/vllm-openai:deepseekv4-cu130
+lmsysorg/sglang:glm-5.3-flash
 
 
 
