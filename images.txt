@@ -1,4 +1,3 @@
-nvcr.io/nvidia/ai-dynamo/sglang-runtime:1.5.1
-
+lmcache/sglang:v0.5.6
 
 
